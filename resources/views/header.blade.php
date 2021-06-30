@@ -21,7 +21,7 @@ if(Session::has('user'))
           <a class="nav-link" href="/">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/product">Product</a>
+          <a class="nav-link" href="">Order</a>
         </li>
      
       @if(Session::has('user'))
